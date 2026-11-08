@@ -1,2 +1,2 @@
-# Library-management-system
-Library-management-system description
+# Library-Management-System
+Library-Management-System Description
